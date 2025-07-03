@@ -6,4 +6,4 @@ COPY GreetUser.java .
 
 RUN javac GreetUser.java
 
-CMD["java", "GreetUser"]
+CMD ["java", "GreetUser"]
